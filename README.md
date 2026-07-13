@@ -72,7 +72,9 @@ CatBoost Config 2 no obtuvo el RMSE más bajo de todas las configuraciones evalu
 ## 📁 Estructura del repositorio
 
 ├── notebook_rusty_bargain.ipynb   # Notebook principal con todo el pipeline
+
 ├── README.md                       # Este archivo
+
 └── data/                           # (no incluida por tamaño/licencia)
 
 ## 🚀 Cómo ejecutar
